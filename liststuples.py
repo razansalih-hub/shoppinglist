@@ -44,4 +44,3 @@ print (f"""
 3= {name3}
 """)
 print("*" *50)
-# print("The shopping list is:", My_shoppinglist)
